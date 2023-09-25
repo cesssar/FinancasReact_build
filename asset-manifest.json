@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://cesarsteinmeier.com.br/static/css/main.65d90aa7.css",
-    "main.js": "https://cesarsteinmeier.com.br/static/js/main.f440889a.js",
+    "main.js": "https://cesarsteinmeier.com.br/static/js/main.1c1d9c85.js",
     "static/js/787.ee24bc93.chunk.js": "https://cesarsteinmeier.com.br/static/js/787.ee24bc93.chunk.js",
     "index.html": "https://cesarsteinmeier.com.br/index.html",
     "main.65d90aa7.css.map": "https://cesarsteinmeier.com.br/static/css/main.65d90aa7.css.map",
-    "main.f440889a.js.map": "https://cesarsteinmeier.com.br/static/js/main.f440889a.js.map",
+    "main.1c1d9c85.js.map": "https://cesarsteinmeier.com.br/static/js/main.1c1d9c85.js.map",
     "787.ee24bc93.chunk.js.map": "https://cesarsteinmeier.com.br/static/js/787.ee24bc93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65d90aa7.css",
-    "static/js/main.f440889a.js"
+    "static/js/main.1c1d9c85.js"
   ]
 }
